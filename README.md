@@ -12,3 +12,11 @@ I love mountain biking so I have created application for someone who loves to ri
      Backend: Java 8 to write java code for this application, Eclipse IDE, JDBC, JPA 
             : Spring MVC to connect Java app with the frontend environment. 
      Frontend: JavaScript, HTML 5, CSS 3 and Bootstrap.
+     Server: Tomcat 9
+     
+## This application will run on localhost only at this time 
+## You can clone this repository for more details
+## Please take a look at => src/com/Bike file for java code
+   @ Take a look at => mvcapp/controller/MainController.java 
+   @ Also look Views folder for Spring MVC frontend framework
+   
