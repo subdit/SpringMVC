@@ -16,7 +16,7 @@ I love mountain biking so I have created application for someone who loves to ri
      
 ## This application will run on localhost only at this time 
 ## You can clone this repository for more details
-## Please take a look at => src/com/Bike file for java code
+   @ Please take a look at => src/com/Bike file for java code
    @ Take a look at => mvcapp/controller/MainController.java 
-   @ Also look Views folder for Spring MVC frontend framework
+   @ Also look at => Views folder for Spring MVC frontend framework
    
