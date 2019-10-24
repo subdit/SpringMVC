@@ -9,12 +9,14 @@ I love mountain biking so I have created application for someone who loves to ri
  
 
 # Technologies 
-     Backend: Java 8 to write java code for this application, Eclipse IDE, JDBC, JPA 
-            : Spring MVC to connect Java app with the frontend environment. 
-     Frontend: JavaScript, HTML 5, CSS 3 and Bootstrap.
+     Backend: The application using Java 8, Eclipse IDE, JDBC, JPA and used Eclipse link to connect with                                     Spring MVC for the frontend and Servlet to tie the backend togethter.
+     Frontend: Spring MVC, JavaScript, HTML 5, CSS 3 and Bootstrap.
      Server: Tomcat 9
-     
+     DataBase: DbeaverDB to host the application
+   
 ## The application will run on localhost 
+ @ That's used Tomcat 9.0 server to host the application
+ 
 ### http://localhost:8082/mvcapp 
 
 ### You can clone this repository for more details
