@@ -1,5 +1,5 @@
 # SpringMVC BikeShop Project #
-@This is a full stack java project@
+@The BikeShop is a full stack java project using Java technology, Database and Spring MVC that allows the users to be able to rigister and login to explore the products that stored in database.  
 
 # Main Concept
   This application is focus on the user to be able to look at the Bike-shop website and choose their dream bike by type.
@@ -15,7 +15,7 @@ I love mountain biking so I have created application for someone who loves to ri
      DataBase: DbeaverDB to host the application
    
 ## The application will run on localhost 
- @ That's used Tomcat 9.0 server to host the application
+ @ Useing Tomcat 9.0 server to host the application
  
 ### http://localhost:8082/mvcapp 
 
