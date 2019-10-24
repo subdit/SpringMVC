@@ -14,8 +14,8 @@ I love mountain biking so I have created application for someone who loves to ri
      Frontend: JavaScript, HTML 5, CSS 3 and Bootstrap.
      Server: Tomcat 9
      
-## This application will run on localhost 
-### http://localhost:8082/mvcapp/only at this time 
+## The application will run on localhost 
+### http://localhost:8082/mvcapp 
 
 ### You can clone this repository for more details
    @ Please take a look at => src/com/Bike file for java code
