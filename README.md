@@ -12,7 +12,7 @@ I love mountain biking so I have created application for someone who loves to ri
      Backend: The application using Java 8, Eclipse IDE, JDBC, JPA and used Eclipse link to connect with                                     Spring MVC for the frontend and Servlet to tie the backend togethter.
      Frontend: Spring MVC, JavaScript, HTML 5, CSS 3 and Bootstrap.
      Server: Tomcat 9
-     DataBase: DbeaverDB to host the application
+     DataBase: DbeaverDB gui, MySql to host the application
    
 ## The application will run on localhost 
  @ Useing Tomcat 9.0 server to host the application
